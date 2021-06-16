@@ -6,8 +6,8 @@ target 'RxViperSimpson' do
   #use_frameworks!
 
   # Pods for RxViperSimpson
-  pod 'RxAlamofire'
-  pod 'RxCocoa'
-  pod 'SDWebImage'
+  pod 'RxAlamofire', '~> 6.1'
+  pod 'RxCocoa', '~> 6.2.0'
+  pod 'SDWebImage', '~> 5.11.1', :modular_headers => true
 
 end

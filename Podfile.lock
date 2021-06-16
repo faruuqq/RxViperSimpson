@@ -16,9 +16,9 @@ PODS:
   - SDWebImage/Core (5.11.1)
 
 DEPENDENCIES:
-  - RxAlamofire
-  - RxCocoa
-  - SDWebImage
+  - RxAlamofire (~> 6.1)
+  - RxCocoa (~> 6.2.0)
+  - SDWebImage (~> 5.11.1)
 
 SPEC REPOS:
   trunk:
@@ -37,6 +37,6 @@ SPEC CHECKSUMS:
   RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
   SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
 
-PODFILE CHECKSUM: f24a3a75e6ff90e12ef5a174edc6a2a8e54aebb1
+PODFILE CHECKSUM: e98e9eee7f231fffaffb00f180ab58facc87b9c6
 
 COCOAPODS: 1.10.1
