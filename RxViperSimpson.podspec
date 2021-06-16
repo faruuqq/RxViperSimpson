@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "RxViperSimpson"
-  spec.version      = "0.1.1"
+  spec.version      = "0.1.2"
   spec.summary      = "RxViperSimpson shows random simpson quotes using dependency RxSwift and RxAlamofire with VIPER architecture"
 
   # This description is used to generate tags and improve search results.
@@ -24,7 +24,8 @@ Pod::Spec.new do |spec|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  # spec.description  = <<-DESC
+  spec.description  = <<-DESC
+  RxViperSimpson shows random simpson quotes with simpson image
                    DESC
 
   spec.homepage     = "https://github.com/faruuqq/RxViperSimpson"
