@@ -1,0 +1,6 @@
+module Pods_RxViperSimpson {
+  umbrella header "Pods-RxViperSimpson-umbrella.h"
+
+  export *
+  module * { export * }
+}
