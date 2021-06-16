@@ -8,7 +8,7 @@ s.summary = "RxViperSimpson shows random simpson quotes using dependency RxSwift
 s.requires_arc = true
 
 # 2
-s.version = "0.1.5"
+s.version = "0.1.6"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -25,9 +25,9 @@ s.source = { :git => "https://github.com/faruuqq/RxViperSimpson.git",
 
 # 7
 s.framework = "UIKit"
-s.dependency "RxAlamofire"
-s.dependency "RxCocoa"
-s.dependency "SDWebImage"
+s.dependency 'RxAlamofire', '~> 6.1'
+s.dependency 'RxCocoa', '~> 6.2.0'
+s.dependency 'SDWebImage', '~> 5.11.1'
 
 # 8
 s.source_files = "RxViperSimpson/**/*.{swift}"
