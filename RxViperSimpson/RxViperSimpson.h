@@ -1,0 +1,18 @@
+//
+//  RxViperSimpson.h
+//  RxViperSimpson
+//
+//  Created by Muhammad Faruuq Qayyum on 16/06/21.
+//
+
+#import <Foundation/Foundation.h>
+
+//! Project version number for RxViperSimpson.
+FOUNDATION_EXPORT double RxViperSimpsonVersionNumber;
+
+//! Project version string for RxViperSimpson.
+FOUNDATION_EXPORT const unsigned char RxViperSimpsonVersionString[];
+
+// In this header, you should import all the public headers of your framework using statements like #import <RxViperSimpson/PublicHeader.h>
+
+
